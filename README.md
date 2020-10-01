@@ -13,7 +13,7 @@ CREATE DATABASE ilmoitus;
 ```
 
 
-´´´
+```
 CREATE TABLE tiedot
 (
 sukunimi varchar(255),
@@ -24,4 +24,4 @@ puhelin INT(255),
 sposti varchar(255) PRIMARY KEY,
 svuosi INT(255)
 );
-´´´
+```
