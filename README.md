@@ -6,12 +6,13 @@ Muokkaa `send.php`- tiedostosta tarvittavat asiat.
 
 
 
-## SQL koodit databasen ja tablen tekemiseen
+### SQL koodi databasen luomiseen.
 
 ```
 CREATE DATABASE ilmoitus;
 ```
 
+### SQL koodi tablen luomiseen.
 
 ```
 CREATE TABLE tiedot
